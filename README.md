@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 **Option 1 — Google Colab (Recommended)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ponjeyakumar-r/Algal-bloom-detection-using-satellite-image/blob/main/algal_bloom_detection_clean.ipynb)
 
 1. Upload `algal_bloom_detection_clean.ipynb` to Colab
 2. Run the setup cell to install `earthengine-api` and `geemap`
